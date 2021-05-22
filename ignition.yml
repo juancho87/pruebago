@@ -1,0 +1,6 @@
+#configuration
+  users:
+  - name: core
+  ssh-authorized-keys:
+  - "ssh-rsa
+  u5IIu0WYXIKUrbSDY2xPVxKhtJtbymxZ/KJloIpabTI==root@localhost.localdomain"
